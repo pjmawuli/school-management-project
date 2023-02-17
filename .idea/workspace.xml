@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f5b105a-7c63-45b1-b5e9-2313ac735ae1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8f5b105a-7c63-45b1-b5e9-2313ac735ae1" name="Changes" comment="Update of vercel config file">
+      <change beforePath="$PROJECT_DIR$/vercel.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +49,16 @@
       <option name="presentableId" value="Default" />
       <updated>1676658959218</updated>
       <workItem from="1676658963037" duration="26000" />
-      <workItem from="1676659010315" duration="1223000" />
+      <workItem from="1676659010315" duration="1634000" />
     </task>
+    <task id="LOCAL-00001" summary="Update of vercel config file">
+      <created>1676673329191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676673329191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,5 +66,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Update of vercel config file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update of vercel config file" />
   </component>
 </project>
